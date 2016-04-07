@@ -1,1 +1,0 @@
-$(document).ready(function(){$(".socialbtn").click(function(){$(".socialScreenUp").animate({top:"0"})}),$(".closeDown").click(function(){$(".socialScreenUp").animate({top:"100%"})}),$(".part").click(function(){$(this).find(".overlay").hide()})});
